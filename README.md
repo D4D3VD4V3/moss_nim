@@ -1,6 +1,7 @@
 # moss_nim
 [Moss](https://theory.stanford.edu/~aiken/moss/) (Measure of Software Similarity) submission script in Nim.
-
+## Installation
+```nimble install mossnim```
 ## Usage
 ```
 import browsers, moss_nim, os
