@@ -1,5 +1,5 @@
 # moss_nim
-[Moss](https://theory.stanford.edu/~aiken/moss/) (Measure of Software Submission) submission script in Nim.
+[Moss](https://theory.stanford.edu/~aiken/moss/) (Measure of Software Similarity) submission script in Nim.
 
 ## Usage
 ```
